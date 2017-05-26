@@ -1,0 +1,11 @@
+/Users/dpoindexter/Dev/Prompt/sofried-201704-master/DNNConnect20170526/bin/Debug/Dnn.PersonaBar.Library.dll
+/Users/dpoindexter/Dev/Prompt/sofried-201704-master/DNNConnect20170526/bin/Debug/Dnn.PersonaBar.Prompt.dll
+/Users/dpoindexter/Dev/Prompt/sofried-201704-master/DNNConnect20170526/bin/Debug/Microsoft.ApplicationBlocks.Data.dll
+/Users/dpoindexter/Dev/Prompt/sofried-201704-master/DNNConnect20170526/bin/Debug/Dnn.PersonaBar.Library.pdb
+/Users/dpoindexter/Dev/Prompt/sofried-201704-master/DNNConnect20170526/bin/Debug/Dnn.PersonaBar.Library.xml
+/Users/dpoindexter/Dev/Prompt/sofried-201704-master/DNNConnect20170526/obj/Debug/DNNConnect20170526.csprojResolveAssemblyReference.cache
+/Users/dpoindexter/Dev/Prompt/sofried-201704-master/DNNConnect20170526/obj/Debug/DNNConnect20170526.csproj.CoreCompileInputs.cache
+/Users/dpoindexter/Dev/Prompt/sofried-201704-master/DNNConnect20170526/bin/Debug/DNNConnect.Prompt.dll
+/Users/dpoindexter/Dev/Prompt/sofried-201704-master/DNNConnect20170526/bin/Debug/DNNConnect.Prompt.pdb
+/Users/dpoindexter/Dev/Prompt/sofried-201704-master/DNNConnect20170526/obj/Debug/DNNConnect.Prompt.dll
+/Users/dpoindexter/Dev/Prompt/sofried-201704-master/DNNConnect20170526/obj/Debug/DNNConnect.Prompt.pdb

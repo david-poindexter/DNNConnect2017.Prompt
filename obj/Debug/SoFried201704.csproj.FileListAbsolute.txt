@@ -1,0 +1,11 @@
+/Users/dpoindexter/Dropbox (nvisionative)/Internal/Presentations/DNN Connect/2017/sofried-201704-master/SoFried201704/obj/Debug/SoFried201704.csproj.CoreCompileInputs.cache
+/Users/dpoindexter/Dropbox (nvisionative)/Internal/Presentations/DNN Connect/2017/sofried-201704-master/SoFried201704/obj/Debug/SoFried201704.csprojResolveAssemblyReference.cache
+/Users/dpoindexter/Dropbox (nvisionative)/Internal/Presentations/DNN Connect/2017/sofried-201704-master/SoFried201704/bin/Debug/KellyFord.Prompt.dll
+/Users/dpoindexter/Dropbox (nvisionative)/Internal/Presentations/DNN Connect/2017/sofried-201704-master/SoFried201704/bin/Debug/KellyFord.Prompt.pdb
+/Users/dpoindexter/Dropbox (nvisionative)/Internal/Presentations/DNN Connect/2017/sofried-201704-master/SoFried201704/bin/Debug/Dnn.PersonaBar.Library.dll
+/Users/dpoindexter/Dropbox (nvisionative)/Internal/Presentations/DNN Connect/2017/sofried-201704-master/SoFried201704/bin/Debug/Dnn.PersonaBar.Prompt.dll
+/Users/dpoindexter/Dropbox (nvisionative)/Internal/Presentations/DNN Connect/2017/sofried-201704-master/SoFried201704/bin/Debug/Microsoft.ApplicationBlocks.Data.dll
+/Users/dpoindexter/Dropbox (nvisionative)/Internal/Presentations/DNN Connect/2017/sofried-201704-master/SoFried201704/bin/Debug/Dnn.PersonaBar.Library.pdb
+/Users/dpoindexter/Dropbox (nvisionative)/Internal/Presentations/DNN Connect/2017/sofried-201704-master/SoFried201704/bin/Debug/Dnn.PersonaBar.Library.xml
+/Users/dpoindexter/Dropbox (nvisionative)/Internal/Presentations/DNN Connect/2017/sofried-201704-master/SoFried201704/obj/Debug/KellyFord.Prompt.dll
+/Users/dpoindexter/Dropbox (nvisionative)/Internal/Presentations/DNN Connect/2017/sofried-201704-master/SoFried201704/obj/Debug/KellyFord.Prompt.pdb

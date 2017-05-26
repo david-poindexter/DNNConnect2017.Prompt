@@ -1,0 +1,10 @@
+/Users/dpoindexter/Dev/Prompt/DNN Connect 2017/DNNConnect2017.Prompt/bin/Debug/DNNConnect2017.Prompt.dll
+/Users/dpoindexter/Dev/Prompt/DNN Connect 2017/DNNConnect2017.Prompt/bin/Debug/DNNConnect2017.Prompt.pdb
+/Users/dpoindexter/Dev/Prompt/DNN Connect 2017/DNNConnect2017.Prompt/bin/Debug/Dnn.PersonaBar.Library.dll
+/Users/dpoindexter/Dev/Prompt/DNN Connect 2017/DNNConnect2017.Prompt/bin/Debug/Dnn.PersonaBar.Prompt.dll
+/Users/dpoindexter/Dev/Prompt/DNN Connect 2017/DNNConnect2017.Prompt/bin/Debug/Microsoft.ApplicationBlocks.Data.dll
+/Users/dpoindexter/Dev/Prompt/DNN Connect 2017/DNNConnect2017.Prompt/bin/Debug/Dnn.PersonaBar.Library.pdb
+/Users/dpoindexter/Dev/Prompt/DNN Connect 2017/DNNConnect2017.Prompt/bin/Debug/Dnn.PersonaBar.Library.xml
+/Users/dpoindexter/Dev/Prompt/DNN Connect 2017/DNNConnect2017.Prompt/obj/Debug/DNNConnect2017.Prompt.csproj.CoreCompileInputs.cache
+/Users/dpoindexter/Dev/Prompt/DNN Connect 2017/DNNConnect2017.Prompt/obj/Debug/DNNConnect2017.Prompt.dll
+/Users/dpoindexter/Dev/Prompt/DNN Connect 2017/DNNConnect2017.Prompt/obj/Debug/DNNConnect2017.Prompt.pdb
